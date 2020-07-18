@@ -1,6 +1,7 @@
 # Text Pre-Processing & Feature Generation 
 
 ## Description
+`text-pre-processing.ipynb`:
 
 This project focus on the extraction of data from nonstructured format and conversion into a proper format suitable for a downstream modelling task. It consists of a Python code to preprocess a set of published papers and convert them into numerical representations.
 
