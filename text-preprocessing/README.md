@@ -25,6 +25,10 @@ Abstract and References). The sparse representation consists of two files:
    b. Sparse count vectors file `count_vectors.txt`
 2. CSV file, `stats.csv` containing three columns:
 
+<div align="center">
+    <img src="https://i.imgur.com/GhdETul.png" width="400px"</img> 
+</div>
+
    a. Top 10 most frequent terms appearing in all Titles
 
    b. Top 10 most frequent Authors
