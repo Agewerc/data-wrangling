@@ -21,8 +21,10 @@ In a nutshell, the projects were developed in Jupyter Notebook `python3` about:
   
    Extraction of a set of published papers from nonstructured format, preprocessing  and convertion into numerical representations.
 
-
-
    3. `cleansing-raw-data`
+   
+   Outliers analysis and removal, missing data imputation and data anomalies fix.
 
    4. `data-integration-reshaping`
+   
+   Integrating multiple datasources, including web scraped data, XML files, Shapefiles, txt, GTFS data, csv and xlsx.
