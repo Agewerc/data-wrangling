@@ -14,7 +14,9 @@ This documentation refers to 4 projects developed by me and [Alan Gewerc](https:
 In a nutshell, the projects were developed in Jupyter Notebook `python3` about:
 
    1. `parsing-data`
+   
    Extraction data from semi-structured text files using only `re` and `pandas` libraries. Gets a `TXT` file and generate a `JSON` and a `CSV`.
+   
    2. `text-preprocessing`:
   
    Extraction of a set of published papers from nonstructured format, preprocessing  and convertion into numerical representations.
