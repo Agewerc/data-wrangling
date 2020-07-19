@@ -29,8 +29,8 @@ Abstract and References). The sparse representation consists of two files:
     <img src="https://i.imgur.com/GhdETul.png" width="400px"</img> 
 </div>
 
-    a. Top 10 most frequent terms appearing in all Titles
+   a. Top 10 most frequent terms appearing in all Titles
 
-    b. Top 10 most frequent Authors
+   b. Top 10 most frequent Authors
 
-    c. Top 10 most frequent terms appearing in all Abstract
+   c. Top 10 most frequent terms appearing in all Abstract
