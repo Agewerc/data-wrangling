@@ -2,7 +2,7 @@
 
 ![Imgur](https://i.imgur.com/Ek3k1wg.png)
 
-This documentation refers to 4 projects developed by me and [Alan Gewerc](https://github.com/Agewerc) for the Data Wrangling unit of Monash MDS. The main topics covered on those works were:
+This documentation refers to 4 projects developed by me and [Cristiana Gewerc](https://github.com/cristianaggewerc) for the Data Wrangling unit of Monash MDS. The main topics covered on those works were:
 * parse data in the required format;
 * assess the quality of data for problem identification;
 * resolve data quality issues ready for the data analysis process;
